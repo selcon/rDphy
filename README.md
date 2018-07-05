@@ -1,4 +1,5 @@
 # rDphy
 
-source: https://kottn/rDphy/rDphy.R
-result:![](https://kottn/rDphy/res.png)
+source: https://github.com/kottn/rDphy/rDphy.R
+
+result: ![res](https://github.com/kottn/rDphy/res.png)
